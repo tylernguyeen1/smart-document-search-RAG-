@@ -1,0 +1,8 @@
+pypdf
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+numpy
+python-multipart
